@@ -2,6 +2,8 @@
 
 Reminds you to hydrate every once in a while. Run `hydrate` once you have hydrated.
 
+Test commit
+
 ![](hydrate.png)
 
 ## Installation
