@@ -30,5 +30,3 @@ geometry_prompt_hydrate_render() {
 hydrate() {
   touch $GEOMETRY_PLUGIN_HYDRATE_FILE
 }
-
-geometry_plugin_register hydrate
